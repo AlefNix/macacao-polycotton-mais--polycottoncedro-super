@@ -470,9 +470,10 @@ border-bottom:1px solid #919191;
 
     .social_masculino{ 
         position: absolute;
-        padding-left:30px;
+        padding-left:0px;
         padding-right: 30px;
         padding-bottom: 30px;
+        margin-left: -20px;
         width: 380px;        
         height: 510px;
     }
@@ -556,8 +557,8 @@ border-bottom:1px solid #919191;
     .switch__container2{
         display: flex;
         position: absolute;
-        left:145px;
-        margin-top:550px;
+        left:90px;
+        margin-top:530px;
         vertical-align: baseline;
         z-index: 13;
     }
